@@ -1,6 +1,6 @@
 # RDK2 - Base station using RDK2 and RAB4-RTK
 
-This example demonstrates how to use the UM980 sensor as a base station. The UM980 generates correction data in RTCM format. Those correction data are collected by the PSoC62 placed on the RDK2 on send over USB to a computer.
+This example demonstrates how to use the UM980 sensor as a base station. The UM980 generates correction data in RTCM format. Those correction data are collected by the PSoC62 placed on the RDK2 and sent over the USB to a computer.
 
 <img src="pictures/rdk2_rab4_rtk.png" style="zoom:25%;" />
 

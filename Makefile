@@ -46,7 +46,7 @@ TARGET=APP_RDK2
 #
 # If APPNAME is edited, ensure to update or regenerate launch
 # configurations for your IDE.
-APPNAME=RDK2_UM980_NTRIP_Client
+APPNAME=rdk2-rab4-rtk-rtcm-station
 
 # Name of toolchain to use. Options include:
 #
